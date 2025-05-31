@@ -1,0 +1,74 @@
+{
+  "mappings": [
+    {
+      "gesture": [
+        0,
+        1,
+        0,
+        0,
+        0
+      ],
+      "action": "zoom_in"
+    },
+    {
+      "gesture": [
+        0,
+        0,
+        1,
+        0,
+        0
+      ],
+      "action": "zoom_out"
+    },
+    {
+      "gesture": [
+        1,
+        0,
+        0,
+        0,
+        0
+      ],
+      "action": "left_click"
+    },
+    {
+      "gesture": [
+        0,
+        1,
+        1,
+        0,
+        0
+      ],
+      "action": "right_click"
+    },
+    {
+      "gesture": [
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "action": "volume_up"
+    },
+    {
+      "gesture": [
+        0,
+        0,
+        0,
+        1,
+        1
+      ],
+      "action": "volume_down"
+    },
+    {
+      "gesture": [
+        0,
+        1,
+        1,
+        1,
+        0
+      ],
+      "action": "app_switch"
+    }
+  ]
+}
